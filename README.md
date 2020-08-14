@@ -1,6 +1,6 @@
-### Hi there <img src="https://media.giphy.com/media/l378uqnjh1Jz63852/giphy.gif" width="80">
+<h1>Hello <img src="https://media.giphy.com/media/3LCP6RP2SlcaPh6YMe/giphy.gif" width="80">  I'm Sarah Almeida! </h1>
 
-#  I'm Sarah Almeida! 
+## I'm Sarah Almeida! 
 <hr>
 
 ```javascript
