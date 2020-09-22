@@ -7,7 +7,7 @@ const sarah a. = {
   pronouns: "she" | "her",
   I’m currently learning: [Javascript, HTML, CSS, Ruby, Python],
   tools: [React, Node, SQL],
-  challenge: "I am doing the #100DaysOfCode challenge focused on css and javascript"
+  challenge: #100DaysOfCode focused on css and javascript"
 }
 ```
 
