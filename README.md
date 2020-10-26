@@ -15,4 +15,4 @@ const sarah a. = {
 
 ---
 
-⭐️ From [@sarahdialmeida](https://github.com/sarahdialmeida)
+:heart: ⭐️ From [@sarahdialmeida](https://github.com/sarahdialmeida)
