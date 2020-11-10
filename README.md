@@ -5,8 +5,8 @@
 ```javascript
 const sarah a. = {
   pronouns: "she" | "her",
-  I’m currently learning: [Javascript, HTML, CSS, Ruby, Python],
-  tools: [React, Node, SQL],
+  I’m currently learning: [Javascript, HTML5, CSS3, Ruby, Python],
+  tools: [ReactJS, NodeJS, PostgreSQL, Koa],
   challenge: #100DaysOfCode focused on css and javascript"
 }
 ```
