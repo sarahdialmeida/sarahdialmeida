@@ -11,9 +11,11 @@ const sarah a. = {
             [Frontend Development and UX/ UI at @origamid],
             [Computer Cience Fundamentals at @CS50],
   interested in: [Frontend libraries, UX/UI, Design, Agile Methods, Responsive Design, Project Management, Open Source],           
-  who am I: 50% nerd 50% yogini          
+  who am I: 50% nerd 50% yogini
+ 
 }
 ```
+:clipboard: [my resume here](https://github.com/sarahdialmeida/sarahdialmeida-resume/blob/main/README.md)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
