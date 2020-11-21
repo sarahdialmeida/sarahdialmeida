@@ -10,7 +10,7 @@ const sarah a. = {
   studying: [Full Stack Development Bootcamp at @cubosacademy],
             [Frontend Development and UX/ UI at @origamid],
             [Computer Cience Fundamentals at @CS50],
-  interested in: [Frontend libraries, UX/UI, Design, Agile Methods, Responsive Design, Project Management],           
+  interested in: [Frontend libraries, UX/UI, Design, Agile Methods, Responsive Design, Project Management, Open Source],           
   who am I: 50% nerd 50% yogini          
 }
 ```
