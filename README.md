@@ -5,9 +5,13 @@
 ```javascript
 const sarah a. = {
   pronouns: "she" | "her",
-  I’m currently learning: [Javascript, HTML5, CSS3, Ruby, Python],
-  tools: [ReactJS, NodeJS, PostgreSQL, Koa],
-  challenge: #100DaysOfCode focused on css and javascript"
+  I’m currently learning: [ReactJS],
+  tools: [ReactJS, NodeJS, PostgreSQL, Koa, Javascript, HTML5, CSS3, Wordpress, Git],
+  studying: Full Stack Development Bootcamp at [@cubosacademy][https://cubos.academy/]
+            Frontend Development and UX/ UI at [@origamid](https://www.origamid.com)
+            Computer Cience Fundamentals at [@CS50](https://cs50.harvard.edu/x/2020/weeks/0/)
+  interested in: Frontend libraries, UX/UI, Design, Agile Methods, Responsive Design, Project Management,           
+  who am I: 50% nerd 50% yogini          
 }
 ```
 
