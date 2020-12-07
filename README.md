@@ -11,12 +11,12 @@ const sarah a. = {
             [Frontend Development and UX/ UI at @origamid],
             [Computer Cience Fundamentals at @CS50],
   interested in: [Frontend libraries, UX/UI, Design, Agile Methods, Responsive Design, Project Management, Open Source],           
- I love: cats, politics, plant based food and yoga
+  I love: cats, politics, plant based food and yoga
  
 }
 ```
 
-#### These are some of the technologies and tools that I work with:
+ ⭐️ These are some of the technologies and tools that I work with:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -26,7 +26,7 @@ const sarah a. = {
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 ![React Badge](https://img.shields.io/badge/-React-%2361DAFB?logo=react&logoColor=white)
 
-## 💻 Where to find me
+ ⭐️ Where to find me
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarahdialmeida/)
 
@@ -36,4 +36,4 @@ const sarah a. = {
 
 ---
 
-🖤 ⭐️ From [@sarahdialmeida](https://github.com/sarahdialmeida)
+🖤 From [@sarahdialmeida](https://github.com/sarahdialmeida)
