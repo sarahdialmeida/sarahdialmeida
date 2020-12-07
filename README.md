@@ -16,7 +16,7 @@ const sarah a. = {
 }
 ```
 
- ⭐️ These are some of the technologies and tools that I work with:
+ ⭐️ <b>These are some of the technologies and tools that I work with:<b>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -26,7 +26,7 @@ const sarah a. = {
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 ![React Badge](https://img.shields.io/badge/-React-%2361DAFB?logo=react&logoColor=white)
 
- ⭐️ Where to find me
+ ⭐️ <b>Where to find me<b>
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarahdialmeida/)
 
