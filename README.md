@@ -16,7 +16,7 @@ const sarah a. = {
 }
 ```
 
- ⭐️ <b>These are some of the technologies and tools that I work with:<b>
+ ⭐️ <b>These are some of the technologies and tools I work with:<b>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
