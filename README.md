@@ -28,9 +28,7 @@ const sarah a. = {
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 ![React Badge](https://img.shields.io/badge/-React-%2361DAFB?logo=react&logoColor=white)
 
- ⭐️ <b>Where to find me<b>
-
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarahdialmeida/)
+ ⭐️ <b>Where to find me:<b> [![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarahdialmeida/)
 
 :clipboard: [my resume here](https://github.com/sarahdialmeida/sarahdialmeida-resume/blob/main/README.md)
 
