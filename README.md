@@ -12,7 +12,7 @@ const sarah a. = {
             [Full Stack Development Bootcamp at @cubosacademy],
             [Frontend Development and UX/ UI at @origamid],
             [Computer Cience Fundamentals at @CS50],
-  interested in: [Frontend libraries, UX/UI, Design, Agile Methods, Responsive Design, Project Management, Open Source],           
+  interested in: [Frontend libraries, UX/UI, Design, Digital Acessibility, Agile Methods, Responsive Design, Project Management, Open Source],           
   I love: cats, politics, plant based food and yoga
  
 }
